@@ -148,3 +148,6 @@ Example Response:
 ```json
 {}
 ```
+    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+
